@@ -7,9 +7,7 @@
 ## 🖼️ 팀 포스터
 
 <div class="poster">
-  <a href="poster.pdf">
-    <img src="poster.jpg" alt="12팀 포스터: 2050, 경험을 사고파는 시대" width="600"/>
-  </a>
+  <img src="poster-12team.jpg" alt="12팀: 2050, 경험을 사고파는 시대" width="600"/>
 </div>
 
 <p align="center" class="poster-caption">
